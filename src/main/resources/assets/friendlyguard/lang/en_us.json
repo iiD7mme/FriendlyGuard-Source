@@ -1,0 +1,5 @@
+{
+  "key.friendlyguard.open_menu": "Open FriendlyGuard Menu",
+  "category.friendlyguard": "FriendlyGuard",
+  "message.friendlyguard.protected_warning": "[FriendlyGuard] You cannot hit %s! (Protected)"
+}
