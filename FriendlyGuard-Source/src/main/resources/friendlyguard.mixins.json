@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.friendlyguard.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClientPlayerInteractionManagerMixin",
+    "MinecraftClientMixin",
+    "EntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
